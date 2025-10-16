@@ -6,7 +6,7 @@
 
 
 
-![图片](https://raw.githubusercontent.com/tizibaike/fliggycloud/refs/heads/main/fliggycloud_logo.png)
+![图片](https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/fliggycloud_logo.png)
 
 
 ## 一、飞天猪 FliggyCloud 特色
