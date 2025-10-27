@@ -2,9 +2,7 @@
 
 飞天猪 FliggyCloud 机场是一家IEPL专线机场，海外团队运营，采用Trojan协议，支持新疆，I支持Netflix , Disney+, HBO等流媒体解锁，支持ChatGPT等全流媒体解锁，超稳晚高峰。
 
-官网地址：https://finalgo.xyz/zSQrvP
-
-
+官网地址：https://finalto.xyz/RKuR6j
 
 ![图片](https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/fliggycloud_logo.png)
 
