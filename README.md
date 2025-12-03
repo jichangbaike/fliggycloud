@@ -130,7 +130,7 @@
 
 - **桌面平台**  
   - Windows / macOS / Linux：  
-    - 可配合常见客户端（如 Clash 系列、NekoRay 等）使用，通过订阅链接导入节点进行统一管理。
+    - 可配合常见客户端（如 Clash Verge、FlClash 等）使用，通过订阅链接导入节点进行统一管理。
 
 - **移动平台**  
   - Android：  
