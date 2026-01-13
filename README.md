@@ -1,6 +1,6 @@
 # 飞天猪 FliggyCloud 官网注册入口说明与多平台使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/1516.png" >
+<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/images/1516.png" >
 
 飞天猪 FliggyCloud是一家面向日常办公、学习和影音娱乐等场景的跨境网络传输服务提供商，由海外团队运营，强调线路稳定性与长期可用性。  
 服务支持 Windows、macOS、iOS、Android 等常见平台，通过订阅链接形式接入，适合希望在多终端上长期使用同一服务的用户。
