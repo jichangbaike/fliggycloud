@@ -97,7 +97,7 @@
 - 实际流量额度、重置周期及是否支持流量手动重置请以官网说明为准；  
 - 所有套餐均应在合理使用前提下使用，避免长时间极端跑满带宽。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/9707.png" >
+<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/images/9707.png" >
 
 ---
 
@@ -187,6 +187,8 @@
   - 对连接稳定性与请求连续性有一定支持。
 
 > 不同时间段与不同节点的解锁表现可能存在差异，以上内容仅为一般性说明，请以实际使用情况为准。
+
+<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/images/6549-test.png" >
 
 ---
 
