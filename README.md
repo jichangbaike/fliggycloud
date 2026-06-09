@@ -8,7 +8,7 @@
 
 
 > 本仓库用于整理**飞天猪 FliggyCloud**的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。  
-> 最后更新：2026-04-23
+> 最后更新：2026-06-09
 
 
 > [!WARNING]
@@ -111,13 +111,22 @@
 ---
 ## 限时活动和优惠信息
 
-**活动内容**：飞天猪2026年新春活动
+**活动内容**：飞天猪 6 月活动
+
 **优惠码**：
 
-- 年付、两年付、三年付 即刻享受 8 折优惠 ， 优惠码 ：xc80
-- 月付、季付、半年付 即刻享受 85 折优惠 ， 优惠码 ：xc85
+- 季付 - 9折优惠
 
-**活动时间**：截止到2026年3月31日 23点59分
+- 半年付 - 85折优惠
+
+- 年付 - 8折优惠
+
+- 两年付 - 7折优惠
+
+- 三年付 - 6折优惠
+
+
+**活动时间**：截止到2026年6月30日 23点59分
 
 **备注**： 轻量套餐不参与活动
 
@@ -153,17 +162,17 @@
 - **Windows 客户端**  
   - 适用于 Win/10/11 操作系统；
   - 若安装时弹出“安全提醒”，请点击“更多信息”并选择“仍要运行”；
-  - [下载青云梯 Windows 客户端](https://dl.pbb.dexi009.com/apps/ftz/ftzapp.exe) 
+  - [下载青云梯 Windows 客户端](https://app.pbbapi.baifeng88.com/apps/ftz/ftzapp-lite.exe) 
   
 - **macOS 客户端**
   - 支持 Intel 及 Apple Silicon (M1/M2/M3) 芯片；
   - 下载后拖动至 Applications 文件夹，首次打开需在“系统设置 -> 隐私与安全性”中允许运行；
-  - [下载飞天猪 MacOS 客户端](https://dl.pbb.dexi009.com/apps/ftz/ftzapp.dmg)
+  - [下载飞天猪 MacOS 客户端](https://app.pbbapi.baifeng88.com/apps/ftz/ftzapp-lite.pkg)
   
 - **Android 客户端**  
   - 支持安卓手机、平板及智能电视;
   - 请在系统设置中允许“安装未知应用来源”；
-  - [下载飞天猪 MacOS 客户端](https://dl.pbb.dexi009.com/apps/ftz/ftzapp.apk)
+  - [下载飞天猪 MacOS 客户端](https://app.pbbapi.baifeng88.com/apps/ftz/ftzapp-lite.apk)
 
 - **iOS / iPadOS 客户端**  
   - 外服商店搜索：**nextin**， 安装需要 iOS 15 ；
@@ -173,11 +182,10 @@
 
 - **Linux 客户端**  
   - 最低支持 Ubuntu 22.04+ Debian 12+ Fedora 36+ ；
-  - [下载飞天猪 Linux 客户端](https://dl.pbb.dexi009.com/apps/ftz/linux.zipk)；
+  - [下载飞天猪 Linux 客户端](https://app.pbbapi.baifeng88.com/apps/ftz/ftzapp-linux-lite.zip)
 
-
-- **路由器与其他设备**  
-  - 其他的客户端还在开发中
+- **OpenWrt路由器插件**  
+  - [OpenWrt 插件下载](https://app.pbbapi.baifeng88.com/apps/ftz/ftzapp-openwrt-lite.zip)
 
 > 客户端推荐列表、下载渠道与配置示例可能随时间变化，请以飞天猪  FliggyCloud 官网使用说明为准，避免从不明来源下载软件。
 
@@ -284,5 +292,5 @@ A：建议优先查看 飞天猪 FliggyCloud 官网的帮助中心、公告与�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-04-23`
-- **Version:** `v1.0`
+- **Last Updated:** `2026-06-09`
+- **Version:** `v1.1`
