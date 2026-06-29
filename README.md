@@ -8,7 +8,7 @@
 
 
 > 本仓库用于整理**飞天猪 FliggyCloud**的官网注册入口说明、套餐信息、多平台使用指引以及常见问题，仅提供公开信息汇总，请以官网公布为准。  
-> 最后更新：2026-06-09
+> 最后更新：2026-06-29
 
 
 > [!WARNING]
@@ -88,9 +88,7 @@
 
 ## 套餐与价格结构概览
 
-飞天猪 FliggyCloud 提供多档位套餐，覆盖从轻度到相对重度使用场景。以下为结构性示意，具体价格、流量额度和活动信息请以官网实际页面为准。
-
-### 典型套餐结构示意
+飞天猪 FliggyCloud 提供多档位套餐，覆盖从轻度到相对重度使用场景。具体价格、流量额度和活动信息请以官网实际页面为准。
 
 | 套餐类型   | 计费周期         | 流量档位 | 适用场景与定位                         |
 |-----------|------------------|---------------|----------------------------------------|
@@ -103,10 +101,6 @@
 \*说明：  
 - 实际流量额度、重置周期及是否支持流量手动重置请以官网说明为准；  
 - 所有套餐均应在合理使用前提下使用，避免长时间极端跑满带宽。
-
-<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/images/fliggycloud-test-20260306.png" alt="飞天猪 FliggyCloud 测试图">
-
-> 测试时间：2026-03-06 ，网络情况：电信 1Gbps
 
 ---
 ## 限时活动和优惠信息
@@ -234,7 +228,9 @@
 
 > 不同时间段与不同节点的解锁表现可能存在差异，以上内容仅为一般性说明，请以实际使用情况为准。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/images/6549-test.png" >
+<img src="https://raw.githubusercontent.com/jichangbaike/fliggycloud/refs/heads/main/images/fliggycloud-test-20260306.png" >
+
+测试时间：2026-03-06，电信 1Gbps
 
 ---
 
@@ -292,5 +288,5 @@ A：建议优先查看 飞天猪 FliggyCloud 官网的帮助中心、公告与�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-06-09`
-- **Version:** `v1.1`
+- **Last Updated:** `2026-06-29`
+- **Version:** `v1.2`
